@@ -1,0 +1,5 @@
+Order By: John doe
+Payment Method: Cash
+Order:
+2x Macaroon (25k)
+Total Price: 50K

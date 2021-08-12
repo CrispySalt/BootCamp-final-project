@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\CrispySalt\Desktop\C Programm\New Restaurant\Restaurant\Source.cpp(136,25): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\CrispySalt\Desktop\C Programm\New Restaurant\Restaurant\Source.cpp(136,21): warning C4309: 'initializing': truncation of constant value
+  Restaurant.vcxproj -> C:\Users\CrispySalt\Desktop\C Programm\New Restaurant\Debug\Restaurant.exe
