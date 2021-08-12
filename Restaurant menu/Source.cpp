@@ -1,4 +1,4 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 void asciiART();
@@ -240,3 +240,4 @@ void asciiART() {
 	fclose(fileArt);
 
 }
+
